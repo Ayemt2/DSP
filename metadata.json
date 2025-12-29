@@ -1,0 +1,7 @@
+{
+  "name": "Interactive Filter Design Simulator",
+  "description": "A high-fidelity tool for students to design and visualize digital filters (Low-pass, High-pass, Band-pass, Band-stop) with real-time signal processing and AI-driven educational insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
